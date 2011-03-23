@@ -1,0 +1,21 @@
+##Linux-note
+#git
+一
+1-1:利用版本来进行程序得修改和添加操作
+
+ 1. 建立一个新的目录
+ 2. git init(git 库）
+    vim h.c(添加数据)
+    git add h.c（跟踪）
+    git commit -a -m "版本名"
+    vim h.c(对其进行修改)
+    git commit -a -m "修改后得版本名"
+    tig(输出)
+
+1-2:对于新建立的版本对其进行删除操作
+ 1.重复1-1操作
+ 2.git throwh
+
+
+
+
