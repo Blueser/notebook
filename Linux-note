@@ -16,6 +16,24 @@
  1.重复1-1操作
  2.git throwh
 
-
-
+1-3
+peterwang 
+git
+#编程用到的有用的快捷键
+	在插入模式下：（缩进对齐）	Ctrl+D
+					Ctrl+T
+	在命令模式下：w 向下移动 b 向上移动
+			y 拷贝     Y 拷贝一行
+			d 删除	   dd 删除一行
+			i          I
+		        a
+			o
+#script language(脚本语言)
+	“usually is interpreted language”
+	“run some fucntions of a specific program”
+	git clone git://github.com//happypeter/peter-vim.git(功能：克隆后可以在编程中避免敲相同的代码)
+	.vim/snippets(想到于宏代换，在vim c.snippets中
+				    snippet c
+				    i love you
+				    当在vim b.c中输入cc时，就被i love you 所代替)
 
